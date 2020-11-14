@@ -33,5 +33,5 @@ Here's the final product:
 <img src = "life_exp_v_fertility.gif"></img>
 
 ## Referenced Articles
-[Learn How to Create Animated Graphs in Python](https://towardsdatascience.com/learn-how-to-create-animated-graphs-in-python-fce780421afe)
+[Learn How to Create Animated Graphs in Python](https://towardsdatascience.com/learn-how-to-create-animated-graphs-in-python-fce780421afe)<br>
 [Making an Animated Graph with Matplotlib & Seaborn](https://salernoali.medium.com/making-an-animated-graph-with-matplotlib-seaborn-3f865fa8c16a)
